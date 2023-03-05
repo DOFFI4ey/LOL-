@@ -1,0 +1,1 @@
+onclick=msgbox ("The mod is installed!",64,"by World of Cool Dudes")
